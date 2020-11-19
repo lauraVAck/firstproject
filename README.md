@@ -17,4 +17,4 @@ Description of my fancy new Tool.
 
 - item1
 - item2
-
+- item3
