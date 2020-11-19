@@ -11,10 +11,10 @@ description of first tool
 description of second tool
 
 ### Third Tool
-Description of my fancy new tool.
+Description of my fancy new Tool.
 
 ## Things to Do in the future
 
 - item1
 - item2
-- item3
+
